@@ -1,1 +1,3 @@
-The main objective is to estimate or predict the unit sales of Walmart retail goods at stores in various locations for the next 28 days. This estimation certainly helps different companies to increase their revenues.
+
+The main objective is to estimatE/predict the unit sales of Walmart retail goods at multiple locations for the next 28 days. 
+The use of clustering further increases the accuracy of the predictive model
